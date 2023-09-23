@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../booki satarter -original"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BOOKI "
+	}
+}
